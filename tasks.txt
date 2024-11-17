@@ -1,0 +1,8 @@
+Check Deadlines and Tasks for 466 | school | 1 | 1 | 2024-11-18 1:00
+Check Deadlines and Tasks for ECON | school | 1 | 1 | 2024-11-18 1:00
+Check Deadlines and Tasks for PSYCH | school | 1 | 1 | 2024-11-18 1:00
+Check Deadlines and Tasks for 401 | school | 1 | 1 | 2024-11-18 12:00
+Finish NRC code | work | 4 | 4 | 2024-11-18 19:00
+rearrange stuff in Go Pro folder by slammed/unslammed and dates | work | 2 | 2 | 2024-11-20 19:00
+Upload stuff from Tarush's Drive | work | 5 | 1 | 2024-11-22 17:00
+meet dongDong | work | 1 | 1 | 2024-11-18 13:00
