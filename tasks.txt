@@ -2,7 +2,14 @@ Check Deadlines and Tasks for 466 | school | 1 | 1 | 2024-11-18 1:00
 Check Deadlines and Tasks for ECON | school | 1 | 1 | 2024-11-18 1:00
 Check Deadlines and Tasks for PSYCH | school | 1 | 1 | 2024-11-18 1:00
 Check Deadlines and Tasks for 401 | school | 1 | 1 | 2024-11-18 12:00
-Finish NRC code | work | 4 | 4 | 2024-11-18 19:00
-rearrange stuff in Go Pro folder by slammed/unslammed and dates | work | 2 | 2 | 2024-11-20 19:00
-Upload stuff from Tarush's Drive | work | 5 | 1 | 2024-11-22 17:00
+Check for other tasks that you think might be important | school | 1 | 1 | 2024-11-18 15:00
+466 ASG8 | school | 3 | 3 | 2024-11-21 12:00
+466 ASG9 | school | 3 | 3 | 2024-11-28 12:00
+466 CODING 2 | school | 4 | 4 | 2024-12-2 12:00
+466 ASG10 | school | 3 | 3 | 2024-12-5 12:00
+466 ASG11 | school | 3 | 3 | 2024-12-12 12:00
 meet dongDong | work | 1 | 1 | 2024-11-18 13:00
+Finish NRC code | work | 4 | 4 | 2024-11-18 19:00
+Upload stuff from Tarush's Drive | work | 5 | 1 | 2024-11-22 17:00
+Rearrange go pro folder by date | work | 2 | 2 | 2024-11-22 19:00
+466 Mini Project | school | 10 | 7 | 2024-12-10 12:00
